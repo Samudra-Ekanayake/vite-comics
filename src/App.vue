@@ -19,9 +19,12 @@ export default {
 </script>
 
 <template>
+
 <h1>Prova esercizio</h1>
+
 </template>
 
 <style>
 
 </style>
+
