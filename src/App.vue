@@ -1,6 +1,14 @@
 <script>
 
+import AppHeader from "./components/AppHeader.vue";
+import Main from "./components/Main.vue";
+import Footer from "./components/Footer.vue";
+
 export default {
+  components: {
+    AppHeader, Main, Footer,
+  },
+
   data() {
     return {
 
@@ -10,17 +18,16 @@ export default {
 
   },
 
-  mounted: {
+  mounted() {
 
-  }
+  },
 
 }
 
 </script>
 
 <template>
-
-<h1>Prova esercizio</h1>
+  <AppHeader />
 
 </template>
 
