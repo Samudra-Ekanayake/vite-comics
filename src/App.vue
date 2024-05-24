@@ -27,11 +27,11 @@ export default {
 </script>
 
 <template>
-  <AppHeader />
 
+  <AppHeader />
+  <Main.vue />
+  <Footer.vue />
+  
 </template>
 
-<style>
-
-</style>
-
+<style></style>
