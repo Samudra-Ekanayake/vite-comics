@@ -21,9 +21,9 @@ export default {
         <div class="row">
             <div class="col-12 bg-success">
                 <div class="row">
-                    <div class="col-5 bg-primary">
+                    <div class="col-5 bg-primary ">
                         <div class="row">
-                            <div class="col-8 text-end bg-info">
+                            <div class="col-8 bg-info d-flex align-items-center justify-content-center   ">
                                 logo
                             </div>
                         </div>
